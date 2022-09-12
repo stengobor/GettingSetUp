@@ -1,0 +1,95 @@
+.box {
+    display: block;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 4em;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: white;
+}
+
+.aqua {
+    background: aqua;
+}
+
+.green {
+    background: green;
+}
+
+.magenta {
+    background: magenta;
+}
+.orange {
+    background: orange;
+}
+
+    
+body {
+    font-family: 'Anton', sans-serif;
+    background-color: lightgrey;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.font-small {
+    font-size: 80%;
+}
+
+element.style {
+    font-family: Courier;
+}
+
+.original {
+    color: grey;
+}
+
+.additional {
+    color: brown;
+}
+
+.relative {
+    position: relative;
+    top: 100px;
+    left: 60px;
+}
+
+.top-right {
+    top: -165px;
+    left: 175px;
+}
+
+.top-left {
+    top: -30px;
+    left: 275px;
+}
+
+.bottom {
+    top: -300px;
+    left: 375px;
+}
